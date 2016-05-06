@@ -1,0 +1,5 @@
+Liam Wright, 2016
+
+perm_fits_master.py is a script for pulling data from VNA and analysing permeability.
+
+Current version only works for data and python script in same directory.
