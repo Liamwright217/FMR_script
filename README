@@ -1,5 +1,0 @@
-Liam Wright, 2016
-
-perm_fits_master.py is a first-draft script for pull data from Virtual Network Analyser and plotting permeability vs freq. 
-
-Current version only works for python script in the same directory as data files.
